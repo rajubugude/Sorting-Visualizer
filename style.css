@@ -1,0 +1,18 @@
+body {
+	background-color: #000000;
+}
+
+h1{
+	text-align: center;
+	color: rgb(0, 255, 200);
+	font-size: 70px;
+	text-decoration: solid;
+	font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+
+.classBar{
+	width:15px;
+	margin: 2px;
+	background-color: white;
+}
