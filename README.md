@@ -6,3 +6,5 @@
 #### * Insertion Sort
 #### * Merge Sort
 #### * Quick Sort
+
+###### Done using HTML, CSS, JAVA SCRIPT
